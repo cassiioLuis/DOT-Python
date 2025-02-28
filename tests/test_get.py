@@ -17,7 +17,7 @@ def test_get_unic():
     response = requests.get(f"{BASE_URL}/posts/45")
 
     assert response.status_code == 200
-    assert response.json() is not None  #verifica se é um JSON
+    assert response.json() is not None  #verifica se é um objeto JSON
 
     data = response.json()
     assert data["id"] == 45
