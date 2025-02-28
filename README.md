@@ -55,8 +55,10 @@ Rota não possui muitas validações, como campos obrigatórios, tipo de dados, 
 <br>
 
    > <i>pytest</i>
-   
-[Pytest]: https://docs.pytest.org/en/stable/
-[Python]: https://www.python.org/doc/
+
+### Documentação oficial
+
+<i>[Pytest]: https://docs.pytest.org/en/stable/</i><br>
+<i>[Python]: https://www.python.org/doc/</i>
 
 <br><br><br>
