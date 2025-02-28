@@ -30,11 +30,11 @@ Rota não possui muitas validações, como campos obrigatórios, tipo de dados, 
 <br>
 
 2.  Realizar o clone do projeto através do comando:
-    > <i>git clone https://gitlab.com/solides/quality-assurance/jobs-ui-tests.git</i>
+    > <i>git clone https://github.com/cassiioLuis/DOT-Python.git</i>
 
 <br>
 
-4.  Instalar as depências
+3.  Instalar as depências
    > <i>Python https://www.python.org/downloads/</i>
    <br>
    > pip install requests pytest faker
@@ -55,6 +55,6 @@ Rota não possui muitas validações, como campos obrigatórios, tipo de dados, 
 <br>
 
    > <i>pytest</i>
-
+   
 [Pytest]: https://docs.pytest.org/en/stable/
 [Python]: https://www.python.org/doc/
