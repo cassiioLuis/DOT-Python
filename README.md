@@ -35,10 +35,10 @@ Rota não possui muitas validações, como campos obrigatórios, tipo de dados, 
 <br>
 
 3.  Instalar as depências
-   > <i>Python https://www.python.org/downloads/</i>
+    > <i>Python https://www.python.org/downloads/</i>
    <br>
-   > pip install requests pytest faker <br>
-   > pip install pytest-html
+    > pip install requests pytest faker <br>
+    > pip install pytest-html
 
 <br>
 
@@ -46,7 +46,7 @@ Rota não possui muitas validações, como campos obrigatórios, tipo de dados, 
 ### Executando os Testes
 
 1. Para executar os testes: 
-   > <i>acessar a pasta Tests</i>
+    > <i>acessar a pasta Tests</i>
 
 <br>
 
@@ -54,7 +54,7 @@ Rota não possui muitas validações, como campos obrigatórios, tipo de dados, 
 
 <br>
 
-   > <i>pytest</i>
+    > <i>pytest</i>
 
 ### Documentação oficial
 
