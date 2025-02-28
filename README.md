@@ -37,7 +37,7 @@ Rota não possui muitas validações, como campos obrigatórios, tipo de dados, 
 3.  Instalar as depências
    > <i>Python https://www.python.org/downloads/</i>
    <br>
-   > pip install requests pytest faker
+   > pip install requests pytest faker <br>
    > pip install pytest-html
 
 <br>
