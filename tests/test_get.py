@@ -7,17 +7,17 @@ def test_get_all():
     assert response.status_code == 200
 
     data = response.json()
-    assert isinstance(data, list) #Valida que é uma lista (array)
+    assert isinstance(data, list)       #Valida que é uma lista (array)
 
     for item in data:
-        assert isinstance(item, dict) #Valida que cada item da lista é um objeto JSON
+        assert isinstance(item, dict)   #Valida que cada item da lista é um objeto JSON
 
 
 def test_get_unic():
     response = requests.get(f"{BASE_URL}/posts/45")
 
     assert response.status_code == 200
-    assert response.json() is not None #verifica se é um JSON
+    assert response.json() is not None  #verifica se é um JSON
 
     data = response.json()
     assert data["id"] == 45
